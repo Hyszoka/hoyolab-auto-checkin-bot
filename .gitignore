@@ -1,0 +1,9 @@
+node_modules/
+coverage/
+.DS_Store
+.pnpm-store/
+.env
+build/
+npm-debug.log*
+.next/
+*.log
